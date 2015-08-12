@@ -3,7 +3,7 @@
 ## Objectives
 
 1. Use the ternary operator (`?:`).
-2. Review using comparison operators and boolean operators.
+2. Review using comparison opertestators and boolean operators.
 3. Practice implementing flow control using `if`, `elsif`, and `else` statements.
 
 ## Reviewing Operations
